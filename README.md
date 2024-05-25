@@ -4,11 +4,11 @@ According to the book [Project Management for the Unofficial Project Manager](ht
 
 There are 
 
-1. `Initiate`
-2. `Planning`
-3. `Executing`
-4. `Monitoring and Controlling`
-5. `Closing` 
+1. [Initiate](/Initiate.md)
+2. Planning
+3. Executing
+4. Monitoring and Controlling
+5. Closing
 
 5 stages in a project.
 
