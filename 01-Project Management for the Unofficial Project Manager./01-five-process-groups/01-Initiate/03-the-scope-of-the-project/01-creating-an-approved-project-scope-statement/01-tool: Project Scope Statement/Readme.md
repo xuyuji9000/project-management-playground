@@ -1,2 +1,2 @@
-This folder documents the learning about **Project Scope Statement** .
+This folder documents the learning examples of **Project Scope Statement** .
 
