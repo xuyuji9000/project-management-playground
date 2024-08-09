@@ -12,4 +12,4 @@ This file documents the learning about "project schedule".
 
 - Example: WBS of 3 Levels Aircraft System
 
-    ![WBS - 3 Level Aircraft System](./Example%20:%20WBS%20-%203%20Level%20Aircraft%20System/WBS%20-%203%20Level%20Aircraft%20System.svg)
+    ![WBS of 3 Level Aircraft System](./wbs-examples/01-3-level-aircraft-system/WBS%20-%203%20Level%20Aircraft%20System.svg)
