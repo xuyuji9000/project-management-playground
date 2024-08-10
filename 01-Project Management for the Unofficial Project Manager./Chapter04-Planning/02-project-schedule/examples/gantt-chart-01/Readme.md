@@ -12,3 +12,7 @@ A [description](https://en.wikipedia.org/wiki/Gantt_chart#Definition) from Wikip
 
 4. It can be used to show current schedule status using percent-complete shadings and a vertical "TODAY" line.
 
+# Example
+
+![gantt-chart-01](./gantt-chart-01.drawio.svg)
+
