@@ -16,4 +16,4 @@ This file documents the learning about "project schedule".
 
 2. WBS example 02
 
-    ![WBS example 02](./wbs-examples/02/work-breakdown-structure-example-02.drawio.png)
+    ![WBS example 02](./wbs-examples/02/work-breakdown-structure-example-02.drawio.svg)
