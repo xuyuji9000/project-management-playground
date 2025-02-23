@@ -1,0 +1,1 @@
+project scope statement [template](https://docs.google.com/document/d/1zdXg5ZTThSM64XAzSeM59xNpiNGFBrSZ7tBnYwhb128/edit?tab=t.0#heading=h.jvd7regmwplg) .
